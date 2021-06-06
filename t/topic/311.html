@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>XMPP加密通讯简明教程 - 技术 - 马列毛群众</title>
+<meta name="description" content="之前马列之声的教程已经说得很详细了，我稍加修改一下发上来。">
+<meta name="generator" content="Discourse 2.7.0.beta4 - https://github.com/discourse/discourse version 522dae22c4cea5c8c05f53771dcd6fa8085c54c2">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/311" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/desktop_91679fbb32c2a361ad6122ca6474f8ccd3e0b306.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" data-theme-id="2" />
+<link href="/stylesheets/desktop_theme_2_3e2557f5e9fa8e0c5cf59e3d928c10fd45659f6e.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" />
+<link rel="alternate" type="application/rss+xml" title=" &#39;XMPP加密通讯简明教程&#39;的RSS源" href="https://mlmmlm.icu/t/topic/311.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/311" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/311" />
+<meta property="og:title" content="XMPP加密通讯简明教程" />
+<meta name="twitter:title" content="XMPP加密通讯简明教程" />
+<meta property="og:description" content="之前马列之声的教程已经说得很详细了，我稍加修改一下发上来。" />
+<meta name="twitter:description" content="之前马列之声的教程已经说得很详细了，我稍加修改一下发上来。" />
+<meta name="twitter:label1" value="阅读时间" />
+<meta name="twitter:data1" value="1 mins 🕑" />
+<meta name="twitter:label2" value="赞" />
+<meta name="twitter:data2" value="1 ❤" />
+<meta property="article:published_time" content="2021-02-01T15:19:06+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<img src="https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png" alt="马列毛群众" id="site-logo" style="max-width: 150px;">
+</a>
+</header>
+<div id="main-outlet" class="wrap">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/311">XMPP加密通讯简明教程</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
+<span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>技术</span>
+</span>
+ </a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/anon65721230'><span itemprop='name'>anon65721230</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/311">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-02-01T15:19:06Z' class='post-time'>
+2021年02月1日 15:19
+</time>
+<meta itemprop='dateModified' content='2021-02-01T15:19:06Z'>
+<span itemprop='position'>#1</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>之前马列之声的<a href="https://www.bilibili.com/read/cv992625/" rel="noopener nofollow ugc">教程</a>已经说得很详细了，我稍加修改一下发上来。</p>
+</div>
+<meta itemprop='headline' content='XMPP加密通讯简明教程'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="1" />
+<span class='post-likes'>1赞</span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+<div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a href="https://mlmmlm.icu/t/topic/529/7" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+<meta itemprop='url' content='https://mlmmlm.icu/t/topic/529/7'>
+<span itemprop='name'>这是不是一个实践的机会</span>
+</a>
+<meta itemprop='position' content='2'>
+</div>
+<div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a href="https://mlmmlm.icu/t/topic/19" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+<meta itemprop='url' content='https://mlmmlm.icu/t/topic/19'>
+<span itemprop='name'>可以利用的网站 | 必看的和推荐的书籍、文章</span>
+</a>
+<meta itemprop='position' content='3'>
+</div>
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+ <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/anon65721230'><span itemprop='name'>anon65721230</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/311">
+<span class="crawler-post-infos">
+<meta itemprop='datePublished' content='2021-02-01T15:36:32Z'>
+<time itemprop='dateModified' datetime='2021-02-04T03:23:56Z' class='post-time'>
+2021年02月4日 03:23
+</time>
+<span itemprop='position'>#2</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<h3>一、什么是XMPP以及我们为什么要使用XMPP</h3>
+<p>简而言之，XMPP（又称为Jabber）是一种开放的互联网实时通讯协议。很多流行的聊天软件都是XMPP的封装应用，比如Google Hangout、Facebook Message、AOLChat、米聊、人人桌面和陌陌等。很多网络游戏的内部聊天用的也是XMPP协议。</p>
+<p>与通常我们使用的集中式架构的通讯软件（如QQ、微信）不同，采取邦联式架构的XMPP客户端与服务器、服务器之间的通信使用的是公开而标准化的协议——这保证了任何人都可以参考这些标准开发出可以和系统中其他组件互操作的组件，甚至可以自己搭建服务器，为自己提供服务。通过XMPP所支持的“不留记录即时通讯协议（Off-the-Record Messaging，缩写为OTR，原理见<a href="https://hardenedlinux.github.io/cryptography/2018/02/01/pidgin_xmpp_otr_debian.html" rel="noopener nofollow ugc">网址</a>），可以实现端到端通讯的加密，从而保障“私聊”的真正“私密”性质和通讯的安全性。</p>
+<p>与OTR相比，OMEMO协议提供了多对多的加密聊天，加密离线文件，加密文件传输，可验证性和可否认性，相当于OTR的改进版协议。</p>
+<p>我们推广XMPP是希望推动这种开放的聊天协议和自由软件的使用，用XMPP配合OTR或OMEMO的端对端加密聊天，替代传统封闭的、有隐私泄漏风险的私权软件。</p>
+<h3>二、注册XMPP账号</h3>
+<p>互联网上有很多开放的 XMPP 服务，在正式尝试在服务器上注册帐号之前建议用 <a href="https://xmpp.net" rel="noopener nofollow ugc">xmpp 观测站服务</a>检查一下服务器的特性。</p>
+<p>有些XMPP服务器在网页上提供注册功能（后面标注registration）。<strong>建议在A级服务器注册，并在注册前检查自己是否可以免翻墙访问该服务器官网</strong>。选定一台服务器、填写用户名和密码后，就可以得到形式和电子邮件地址类似——“用户名@服务器”的身份标识——JID了（有些客户端如pidgin甚至使用同一个界面来操作“创建新账号”和“添加现有账号”的功能，仅仅通过类似“在服务器上创建此账号”的选项来区分）。</p>
+<p>请妥善保管账号和密码，XMPP账号不支持密码找回服务。</p>
+<h3>三、安装客户端</h3>
+<p>支持XMPP的客户端有很多，且大部分是自由软件。在此仅推荐一些，基本能满足同志们多数场景的通讯要求。</p>
+<p>PC ：推荐使用 <strong>Pidgin</strong>（GNU/Linux、Windows，支持OTR，不支持OMEMO）、<strong>Dino</strong>（GNU/Linux、macOS，支持 OMEMO 和 OpenPGP ）或 <strong>Profanity</strong>（Linux、macOS、Windows，支持 OMEMO 和 OpenPGP）；</p>
+<p>Android：推荐使用 <strong>pix-art messages</strong>，支持 OMEMO 和 OpenPGP；（不推荐 Xabber）</p>
+<p>iOS 系统？chatsecure 的 iOS 版可能算半个，不过并不好用，往往会丢消息，只有越狱并设法禁止自动挂起网络才能彻底解决这个问题——因为烂苹果这个自诩比用户自己还懂用户的需求的暴君通过一系列恶心的设计把为 iOS 用户提供邦联化的即时通信服务这个本应仅仅需要一条持久 TCP 连接和客户端断线时重连的工作变得难如登天——基本上想为 iOS 实现即时通信服务就必须在一定程度上放弃邦联化，开发者还必须接受烂苹果的盘剥才能保证其用户能及时收到消息——这使得 iOS 能用的即时通信服务基本上都是圆形监狱。所以，如果您是烂苹果的受害者，只能建议您<strong>卖掉</strong> iThing 这个烂苹果的禁脔，<strong>换</strong>更便宜也更自由的 <strong>android</strong> 设备了。</p>
+<h3>四、登陆及使用</h3>
+<p>登陆时如果失败，请检查JID是否完整，一个完整的JID应是 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="acd9dfc9dec2cdc1c9ecdfc9dedac9dec2cdc1c9">[email&#160;protected]</a>，例如<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="eddcdfded9d8dbadd9ddd9c38e849994">[email&#160;protected]</a>，检查登录时是否正确输入。</p>
+<p>建议将设置中所有加密选项选上。比如总是开启OMEMO加密，退出设备后清除聊天记录等。</p>
+</div>
+<meta itemprop='headline' content='XMPP加密通讯简明教程'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="2" />
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/anon65721230'><span itemprop='name'>anon65721230</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/311">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-02-01T15:37:49Z' class='post-time'>
+2021年02月1日 15:37
+</time>
+<meta itemprop='dateModified' content='2021-02-01T15:37:49Z'>
+<span itemprop='position'>#3</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>加入了一些关于OMEMO协议的内容，更换了一下推荐的客户端，说得不对的同志们指出。</p>
+</div>
+<meta itemprop='headline' content='XMPP加密通讯简明教程'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/msc'><span itemprop='name'>msc</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/311">
+<span class="crawler-post-infos">
+<meta itemprop='datePublished' content='2021-02-02T00:53:30Z'>
+<time itemprop='dateModified' datetime='2021-02-02T01:06:24Z' class='post-time'>
+2021年02月2日 01:06
+</time>
+<span itemprop='position'>#5</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>考虑研究一下<br>
+signal(虽然客户端和服务端都是自由的，但是需要电话号码，不好。)<br>
+tox<br>
+bitlbee</p>
+</div>
+<meta itemprop='headline' content='XMPP加密通讯简明教程'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/msc'><span itemprop='name'>msc</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/311">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-02-02T01:23:25Z' class='post-time'>
+2021年02月2日 01:23
+</time>
+<meta itemprop='dateModified' content='2021-02-02T01:23:25Z'>
+<span itemprop='position'>#6</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>这里是支持omemo的列表<br>
+<a href="https://omemo.top/" class="onebox" target="_blank" rel="noopener nofollow ugc">https://omemo.top/</a></p>
+</div>
+<meta itemprop='headline' content='XMPP加密通讯简明教程'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/waosp'><span itemprop='name'>waosp</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/311">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-02-02T03:37:45Z' class='post-time'>
+2021年02月2日 03:37
+</time>
+<meta itemprop='dateModified' content='2021-02-02T03:37:45Z'>
+<span itemprop='position'>#7</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>應該修改爲更自由的Sailfish OS設備。</p>
+</div>
+<meta itemprop='headline' content='XMPP加密通讯简明教程'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/ftercel'><span itemprop='name'>ftercel</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/311">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-02-02T10:53:45Z' class='post-time'>
+2021年02月2日 10:53
+</time>
+<meta itemprop='dateModified' content='2021-02-02T10:53:45Z'>
+<span itemprop='position'>#8</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>安卓端的conversations值不值得推荐？</p>
+</div>
+<meta itemprop='headline' content='XMPP加密通讯简明教程'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+ <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/ftercel'><span itemprop='name'>ftercel</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/311">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-02-02T10:55:40Z' class='post-time'>
+2021年02月2日 10:55
+</time>
+<meta itemprop='dateModified' content='2021-02-02T10:55:40Z'>
+<span itemprop='position'>#9</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>还有，我觉得应该整理一个可用服务器列表，那个列表里的服务器好多都停止新用户注册了。</p>
+</div>
+<meta itemprop='headline' content='XMPP加密通讯简明教程'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/anon65721230'><span itemprop='name'>anon65721230</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/311">
+<span class="crawler-post-infos">
+<meta itemprop='datePublished' content='2021-02-02T11:19:09Z'>
+<time itemprop='dateModified' datetime='2021-02-02T11:20:04Z' class='post-time'>
+2021年02月2日 11:20
+</time>
+<span itemprop='position'>#10</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>可以，它也是自由软件。我推荐Pix-art messages是因为它可以在客户端方便地注册账号。</p>
+<p>至于可用服务器，可以去<a href="https://xmpp.net" rel="noopener nofollow ugc">观测站</a>找。</p>
+</div>
+<meta itemprop='headline' content='XMPP加密通讯简明教程'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">分类 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">FAQ/指引 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a>提供支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
