@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>自己写的一些小程序</title>
+    <link>https://mlmmlm.icu/t/topic/292</link>
+    <description># python
+一些小东西。此库内全部程序用Python编写。  
+Some little things. All in this repository are written in Python.  
+
+**本库所有程序全部以CC0协议投放至公有领域**
+
+初学Python爬虫，写点小东西，提升自己技术也能为各位同志带来便利，欢迎各位同志找Bug。
+
+已安装全部环境（Python和上面全部第三方库）的可以下载源码，在命令行python get.py运行，没有安装的去release下载对应压缩包。
+
+https://github.com/MLMist/python
+
+### 2021.2.12
+
+GitHub账号已注销，准备使用更安全的分发方式。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 09 Feb 2021 03:44:24 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/292.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[anon65721230]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/cxgz05dq3">@cxgz05dq3</a> 本世纪初老左们整理了许多文件，它们大多都是CHM格式的，我的文本爬取就是基于这些文件。（比如六八年汉版《毛泽东思想万岁》）</p>
+<p>既然同志们都说这个格式不好我下次就把CHM格式反编译成HTML文件再发出来。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/12">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/12</link>
+        <pubDate>Tue, 09 Feb 2021 03:44:24 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-12</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[cxgz05dq3]]></dc:creator>
+        <description><![CDATA[
+            <p>在windows平台上，允许CHM调用COM控件，可以使用这个特性进行钓鱼。（ <a href="https://citrusice.github.io/posts/chm-phishing/" rel="noopener nofollow ugc">https://citrusice.github.io/posts/chm-phishing/</a> ） 此外感觉一般CHM也比较少见了，作为终端阅读不如各种电子书格式，网页传播一般还是html。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/11">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/11</link>
+        <pubDate>Tue, 09 Feb 2021 03:09:38 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-11</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[anon65721230]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/mlmmlm_admin">@mlmmlm_admin</a> 为何CHM文件已被弃用呢，是存在什么安全问题吗？</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/10">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/10</link>
+        <pubDate>Mon, 08 Feb 2021 14:51:34 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-10</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>chm文件可以转换为html文件（用在线转换器）。chm文件格式已被弃用。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/9">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/9</link>
+        <pubDate>Mon, 08 Feb 2021 14:49:50 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-9</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[anon65721230]]></dc:creator>
+        <description><![CDATA[
+            <h3>Spider of Long Live Mao Zedong Thought</h3>
+<p>六八年汉版《毛泽东思想万岁》1-5卷爬虫，CHM文件见压缩包。</p>
+<p>少数文章标题的日期有点问题，需要手动修改。</p>
+<p>第三方库：BeautifulSoup、cn2an</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/8">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/8</link>
+        <pubDate>Mon, 08 Feb 2021 13:17:58 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-8</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[anon65721230]]></dc:creator>
+        <description><![CDATA[
+            <h3>Spider of MZDBL</h3>
+<p>毛博网图片爬虫，可爬取毛泽东画集和毛泽东像集中分类里的图片。</p>
+<p>注意，毛博网没有开启HTTPS，这意味着访问者与该网站的数据交流仍是明文传输。</p>
+<p>第三方库：requests、BeautifulSoup</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/7">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/7</link>
+        <pubDate>Fri, 05 Feb 2021 08:46:42 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-7</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[anon65721230]]></dc:creator>
+        <description><![CDATA[
+            <h3>Spider of Selected Works of Mao Tse-Tung</h3>
+<p>《毛泽东选集》1-5卷爬虫，CHM文件见压缩包。</p>
+<p>第三方库：BeautifulSoup、cn2an</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/6">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/6</link>
+        <pubDate>Thu, 04 Feb 2021 05:46:13 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-6</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>是的。。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/5">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/5</link>
+        <pubDate>Mon, 01 Feb 2021 03:15:02 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-5</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[anon65721230]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/mlmmlm_admin">@mlmmlm_admin</a> 练习技术而已，爬取不是目的，接下来要做的就是OCR那些照片。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/4">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/4</link>
+        <pubDate>Mon, 01 Feb 2021 02:48:59 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-4</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>我记得这个资料库已经被爬过一遍了。github上已经有了全部的文章。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/3">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/3</link>
+        <pubDate>Mon, 01 Feb 2021 02:14:49 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-3</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[anon65721230]]></dc:creator>
+        <description><![CDATA[
+            <h3>Spider of Chinese CR Database</h3>
+<p>中国文化大革命文库爬虫，网站首页：<a href="https://ccradb.appspot.com" rel="noopener nofollow ugc">https://ccradb.appspot.com</a></p>
+<p>请在可以访问外网的网络环境下使用该程序，可以爬取全库文章或单作者文章，爬取完成后文件处在程序同级目录下。</p>
+<p>端口值默认10809，如果报错，填写自己设备的端口值。</p>
+<p>第三方库：requests、BeautifulSoup</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/2">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/2</link>
+        <pubDate>Sun, 31 Jan 2021 16:00:20 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+      <item>
+        <title>自己写的一些小程序</title>
+        <dc:creator><![CDATA[anon65721230]]></dc:creator>
+        <description><![CDATA[
+            <h1>python</h1>
+<p>一些小东西。此库内全部程序用Python编写。<br>
+Some little things. All in this repository are written in Python.</p>
+<p><strong>本库所有程序全部以CC0协议投放至公有领域</strong></p>
+<p>初学Python爬虫，写点小东西，提升自己技术也能为各位同志带来便利，欢迎各位同志找Bug。</p>
+<p>已安装全部环境（Python和上面全部第三方库）的可以下载源码，在命令行python get.py运行，没有安装的去release下载对应压缩包。</p>
+<p><a href="https://github.com/MLMist/python" class="onebox" target="_blank" rel="noopener">https://github.com/MLMist/python</a></p>
+<h3>2021.2.12</h3>
+<p>GitHub账号已注销，准备使用更安全的分发方式。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/292/1">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/292/1</link>
+        <pubDate>Sun, 31 Jan 2021 15:58:40 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-292-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/292.rss">自己写的一些小程序</source>
+      </item>
+  </channel>
+</rss>

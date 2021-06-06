@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Allow CloudFlare ip only for discourse app in docker container</title>
+    <link>https://mlmmlm.icu/t/topic/472</link>
+    <description>Allow CloudFlare ip only for discourse app in docker container</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 25 Feb 2021 18:50:14 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/472.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Allow CloudFlare ip only for discourse app in docker container</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>finally, the port scanning result shoud be like this:</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Port Number</th>
+<th>State</th>
+<th>Service Name</th>
+<th>Service Product</th>
+<th>Service Version</th>
+<th>Service Extra Info</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>22</td>
+<td>open</td>
+<td>ssh</td>
+<td>OpenSSH</td>
+<td>********</td>
+<td>*******</td>
+</tr>
+<tr>
+<td>79</td>
+<td>filtered</td>
+<td>finger</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>80</td>
+<td>filtered</td>
+<td>http</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>443</td>
+<td>filtered</td>
+<td>https</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5051</td>
+<td>filtered</td>
+<td>ida-agent</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+          <p><a href="https://mlmmlm.icu/t/topic/472/7">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/472/7</link>
+        <pubDate>Thu, 25 Feb 2021 18:50:14 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-472-7</guid>
+        <source url="https://mlmmlm.icu/t/topic/472.rss">Allow CloudFlare ip only for discourse app in docker container</source>
+      </item>
+      <item>
+        <title>Allow CloudFlare ip only for discourse app in docker container</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>5.<code>dpkg-reconfigure iptables-persistent</code></p>
+          <p><a href="https://mlmmlm.icu/t/topic/472/6">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/472/6</link>
+        <pubDate>Thu, 25 Feb 2021 18:43:30 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-472-6</guid>
+        <source url="https://mlmmlm.icu/t/topic/472.rss">Allow CloudFlare ip only for discourse app in docker container</source>
+      </item>
+      <item>
+        <title>Allow CloudFlare ip only for discourse app in docker container</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>4.run script (adpated from <a href="https://gist.github.com/Manouchehri/cdd4e56db6596e7c3c5a" class="inline-onebox">Allow CloudFlare only · GitHub</a>)</p>
+<pre><code class="lang-auto">for i in `curl https://www.cloudflare.com/ips-v4`; do iptables -I DOCKER-USER -p tcp -m multiport --dports http,https -s $i -j ACCEPT; done
+
+iptables -A DOCKER-USER -p tcp -m multiport --dports http,https -j DROP
+</code></pre>
+<p>====<br>
+update:<br>
+after getting this done, avatars and admin dashboards  are broken.</p>
+<p>fix:</p>
+<p>1.use <code>netstat -i</code> to check out your NICs</p>
+<p>2.the scprit should be modified to</p>
+<pre><code class="lang-auto">for i in `curl https://www.cloudflare.com/ips-v4`; do iptables -I DOCKER-USER -p tcp -m multiport --dports http,https -s $i -j ACCEPT; done
+
+iptables -A DOCKER-USER -i &lt;your NIC name&gt; -p tcp -m multiport --dports http,https -j DROP
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/472/5">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/472/5</link>
+        <pubDate>Thu, 25 Feb 2021 18:41:57 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-472-5</guid>
+        <source url="https://mlmmlm.icu/t/topic/472.rss">Allow CloudFlare ip only for discourse app in docker container</source>
+      </item>
+      <item>
+        <title>Allow CloudFlare ip only for discourse app in docker container</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>3.delete rule in DOCKER-USER below</p>
+<pre><code class="lang-auto">Chain DOCKER-USER (1 references)
+ pkts bytes target     prot opt in     out     source               destination
+ ***  ***   RETURN     all  --  any    any     anywhere             anywhere
+</code></pre>
+<p>you can delete by <code>iptables -D DOCKER-USER &lt;line number of  rule&gt;</code></p>
+          <p><a href="https://mlmmlm.icu/t/topic/472/4">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/472/4</link>
+        <pubDate>Thu, 25 Feb 2021 18:37:42 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-472-4</guid>
+        <source url="https://mlmmlm.icu/t/topic/472.rss">Allow CloudFlare ip only for discourse app in docker container</source>
+      </item>
+      <item>
+        <title>Allow CloudFlare ip only for discourse app in docker container</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>2.restart docker (follows step one)</p>
+<pre><code class="lang-auto">systemctl restart docker
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/472/3">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/472/3</link>
+        <pubDate>Thu, 25 Feb 2021 18:33:59 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-472-3</guid>
+        <source url="https://mlmmlm.icu/t/topic/472.rss">Allow CloudFlare ip only for discourse app in docker container</source>
+      </item>
+      <item>
+        <title>Allow CloudFlare ip only for discourse app in docker container</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>1.clear all rules (optional)</p>
+<pre><code class="lang-auto">iptables -P INPUT ACCEPT
+iptables -P FORWARD ACCEPT
+iptables -P OUTPUT ACCEPT
+iptables -t nat -F
+iptables -t mangle -F
+iptables -F
+iptables -X
+
+ip6tables -P INPUT ACCEPT
+ip6tables -P FORWARD ACCEPT
+ip6tables -P OUTPUT ACCEPT
+ip6tables -t nat -F
+ip6tables -t mangle -F
+ip6tables -F
+ip6tables -X
+</code></pre>
+          <p><a href="https://mlmmlm.icu/t/topic/472/2">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/472/2</link>
+        <pubDate>Thu, 25 Feb 2021 18:32:13 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-472-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/472.rss">Allow CloudFlare ip only for discourse app in docker container</source>
+      </item>
+      <item>
+        <title>Allow CloudFlare ip only for discourse app in docker container</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>Allow CloudFlare ip only for discourse app in docker container</p>
+          <p><a href="https://mlmmlm.icu/t/topic/472/1">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/472/1</link>
+        <pubDate>Thu, 25 Feb 2021 18:31:00 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-472-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/472.rss">Allow CloudFlare ip only for discourse app in docker container</source>
+      </item>
+  </channel>
+</rss>

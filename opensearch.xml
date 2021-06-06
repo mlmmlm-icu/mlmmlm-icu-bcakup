@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>马列毛群众 Search</ShortName>
+  <Description>Search for posts on 马列毛群众</Description>
+  <Tags>discourse forum</Tags>
+    <Image type="image/png">https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://mlmmlm.icu/opensearch.xml"/>
+  <Url type="text/html" template="https://mlmmlm.icu/search?q={searchTerms}"/>
+  <Query role="example" searchTerms="search term"/>
+</OpenSearchDescription>

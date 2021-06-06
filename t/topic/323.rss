@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>革命AI換聲運動萬歲！【獻給Stream革命家的禮物】</title>
+    <link>https://mlmmlm.icu/t/topic/323</link>
+    <description>警告：經實驗Pure OS/Debian（gnu.org）並不支持CUDA Toolkit的安裝。
+
+Any2Any的變聲器早就有了，不過被中國腦控部隊等壟斷着，在GitHub上有Real Time Voice Cloning
+
+這是我的實驗報告：
+
+https://github.com/CorentinJ/Real-Time-Voice-Cloning
+Ubuntu 18.04
+Make
+Python3.7.9+zlib*+Tkinter+TCL
+(Zhi Hu Source_Page)
+(Setup.dist)
+Setuptool 5.0.3.2
+Pip-20.2.4
+NVIDIA driver 410.48
+CUDA 10.0
+CUDNN 7.6.5
+TensorRT 5
+Torch 1.4.0+cu100
+Torchvision 0.5.0+cu100
+Torchaudio 0.4.0
+Tensorflow==1.15.3(By pip)
+Tensorflow-gpu==1.15.3(By pip)
+
+Tensorflow 1.15.3支持nvidia-drivers-455。
+Pytorch選擇支持CUDA Toolkit 10.0。
+先安裝好，CUDA Toolkit 10.0。
+注意：在安裝好CUDA Toolkit 10.0時，執行完sudo apt install cuda后輸入：“sudo ln -sf /usr/local/cuda-10.0/targets/x86_64-linux/lib/libcudnn.so.7.6.5 /usr/local/cuda-10.0/targets/x86_64-linux/lib/libcudnn.so.7”，即可。
+拆卸CUDA Toolkit 10.0，安裝CUDA Toolkit 11.1。
+安裝CUDNN 8.0.5.39-1+CUDA11.1，安裝TensorRT 7.2.1.6。
+此時在apt-key里已經有了CUDA Toolkit 10.0 / CUDA Toolkit 11.1兩套源，儘管cuda-10-0、cuda-11-1對立雙方並不能完全並存，但是Tensorflow 1.15.3卻僅僅在CUDA Toolkit 10.0的libcudart.so.10.0、libcublas.so.10.0、libcufft.so.10.0、libcurand.so.10.0、libcusolver.so.10.0、libcusparse.so.10.0、libcudnn.so.7上報錯。
+第一批報錯僅需：sudo apt install cuda-cudart-10-0 cuda-cublas-10-0 cuda-cufft-10-0 cuda-curand-10-0 cuda-cusolver-10-0 cuda-cusparse-10-0 -y
+第二批報錯僅需在安裝好CUDA Toolkit 10.0時，執行完sudo apt install cuda后輸入：“sudo ln -sf /usr/local/cuda-10.0/targets/x86_64-linux/lib/libcudnn.so.7.6.5 /usr/local/cuda-10.0/targets/x86_64-linux/lib/libcudnn.so.7”，即可。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 04 Feb 2021 11:09:18 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/323.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>革命AI換聲運動萬歲！【獻給Stream革命家的禮物】</title>
+        <dc:creator><![CDATA[anon73820959]]></dc:creator>
+        <description><![CDATA[
+            <p>警告：經實驗Pure OS/Debian（<a href="http://gnu.org" rel="noopener nofollow ugc">gnu.org</a>）並不支持CUDA Toolkit的安裝。</p>
+<p>Any2Any的變聲器早就有了，不過被中國腦控部隊等壟斷着，在GitHub上有Real Time Voice Cloning</p>
+<p>這是我的實驗報告：</p>
+<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" class="onebox" target="_blank" rel="noopener nofollow ugc">https://github.com/CorentinJ/Real-Time-Voice-Cloning</a><br>
+Ubuntu 18.04<br>
+Make<br>
+Python3.7.9+zlib*+Tkinter+TCL<br>
+(Zhi Hu Source_Page)<br>
+(Setup.dist)<br>
+Setuptool 5.0.3.2<br>
+Pip-20.2.4<br>
+NVIDIA driver 410.48<br>
+CUDA 10.0<br>
+CUDNN 7.6.5<br>
+TensorRT 5<br>
+Torch 1.4.0+cu100<br>
+Torchvision 0.5.0+cu100<br>
+Torchaudio 0.4.0<br>
+Tensorflow==1.15.3(By pip)<br>
+Tensorflow-gpu==1.15.3(By pip)</p>
+<p>Tensorflow 1.15.3支持nvidia-drivers-455。<br>
+Pytorch選擇支持CUDA Toolkit 10.0。<br>
+先安裝好，CUDA Toolkit 10.0。<br>
+注意：在安裝好CUDA Toolkit 10.0時，執行完sudo apt install cuda后輸入：“sudo ln -sf /usr/local/cuda-10.0/targets/x86_64-linux/lib/libcudnn.so.7.6.5 /usr/local/cuda-10.0/targets/x86_64-linux/lib/libcudnn.so.7”，即可。<br>
+拆卸CUDA Toolkit 10.0，安裝CUDA Toolkit 11.1。<br>
+安裝CUDNN 8.0.5.39-1+CUDA11.1，安裝TensorRT 7.2.1.6。<br>
+此時在apt-key里已經有了CUDA Toolkit 10.0 / CUDA Toolkit 11.1兩套源，儘管cuda-10-0、cuda-11-1對立雙方並不能完全並存，但是Tensorflow 1.15.3卻僅僅在CUDA Toolkit 10.0的libcudart.so.10.0、libcublas.so.10.0、libcufft.so.10.0、libcurand.so.10.0、libcusolver.so.10.0、libcusparse.so.10.0、libcudnn.so.7上報錯。<br>
+第一批報錯僅需：sudo apt install cuda-cudart-10-0 cuda-cublas-10-0 cuda-cufft-10-0 cuda-curand-10-0 cuda-cusolver-10-0 cuda-cusparse-10-0 -y<br>
+第二批報錯僅需在安裝好CUDA Toolkit 10.0時，執行完sudo apt install cuda后輸入：“sudo ln -sf /usr/local/cuda-10.0/targets/x86_64-linux/lib/libcudnn.so.7.6.5 /usr/local/cuda-10.0/targets/x86_64-linux/lib/libcudnn.so.7”，即可。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/323/1">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/323/1</link>
+        <pubDate>Thu, 04 Feb 2021 11:09:18 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-323-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/323.rss">革命AI換聲運動萬歲！【獻給Stream革命家的禮物】</source>
+      </item>
+  </channel>
+</rss>

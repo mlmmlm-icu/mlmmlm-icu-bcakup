@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>站点反馈 - 马列毛群众</title>
+    <link>https://mlmmlm.icu/c/2-category/2</link>
+    <description>“站点反馈”分类中的主题 讨论该站点的站务、组织、如何运作和如何改善它。</description>
+    <language>zh-CN</language>
+      <lastBuildDate>Sat, 29 Aug 2020 17:21:15 +0000</lastBuildDate>
+      <atom:link href="https://mlmmlm.icu/c/2-category/2.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>安全问题提醒</title>
+          <dc:creator><![CDATA[anon52005617]]></dc:creator>
+          <category>站点反馈</category>
+          <description><![CDATA[
+            <p>发现一个外观非常类似马列之声论坛（2018年已解散，希望有人记得）的新网站，希望管理员注意安全，不要让论坛重蹈马列之声论坛解散的覆辙。</p>
+            <p><small>5 个帖 - 2 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/53">阅读整个主题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/53</link>
+          <pubDate>Sat, 29 Aug 2020 17:21:15 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-53</guid>
+          <source url="https://mlmmlm.icu/t/topic/53.rss">安全问题提醒</source>
+        </item>
+        <item>
+          <title>关于“站点反馈”分类</title>
+          <dc:creator><![CDATA[system]]></dc:creator>
+          <category>站点反馈</category>
+          <description><![CDATA[
+            <p>讨论该站点的站务、组织、如何运作和如何改善它。</p>
+            <p><small>1 个帖 - 1 位参与者</small></p>
+            <p><a href="https://mlmmlm.icu/t/topic/1">阅读整个主题</a></p>
+          ]]></description>
+          <link>https://mlmmlm.icu/t/topic/1</link>
+          <pubDate>Fri, 28 Aug 2020 07:18:05 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">mlmmlm.icu-topic-1</guid>
+          <source url="https://mlmmlm.icu/t/topic/1.rss">关于“站点反馈”分类</source>
+        </item>
+  </channel>
+</rss>

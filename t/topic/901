@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>想问下电报软件（telegram）的不安全性 - 技术 - 马列毛群众</title>
+<meta name="description" content="看到论坛里有人提到电报并不安全，想了解下除了数据储存在电报官方服务器上还有其他不安全的地方吗？">
+<meta name="generator" content="Discourse 2.7.0.beta4 - https://github.com/discourse/discourse version 522dae22c4cea5c8c05f53771dcd6fa8085c54c2">
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/901" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/desktop_91679fbb32c2a361ad6122ca6474f8ccd3e0b306.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" data-theme-id="2" />
+<link href="/stylesheets/desktop_theme_2_3e2557f5e9fa8e0c5cf59e3d928c10fd45659f6e.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" />
+<link rel="alternate" type="application/rss+xml" title=" &#39;想问下电报软件（telegram）的不安全性&#39;的RSS源" href="https://mlmmlm.icu/t/topic/901.rss" />
+<meta property="og:site_name" content="马列毛群众" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
+<meta property="og:url" content="https://mlmmlm.icu/t/topic/901" />
+<meta name="twitter:url" content="https://mlmmlm.icu/t/topic/901" />
+<meta property="og:title" content="想问下电报软件（telegram）的不安全性" />
+<meta name="twitter:title" content="想问下电报软件（telegram）的不安全性" />
+<meta property="og:description" content="看到论坛里有人提到电报并不安全，想了解下除了数据储存在电报官方服务器上还有其他不安全的地方吗？" />
+<meta name="twitter:description" content="看到论坛里有人提到电报并不安全，想了解下除了数据储存在电报官方服务器上还有其他不安全的地方吗？" />
+<meta property="article:published_time" content="2021-05-26T08:19:44+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+</head>
+<body class="crawler">
+<header>
+<a href="/">
+<img src="https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png" alt="马列毛群众" id="site-logo" style="max-width: 150px;">
+</a>
+</header>
+<div id="main-outlet" class="wrap">
+<div id="topic-title">
+<h1>
+<a href="/t/topic/901">想问下电报软件（telegram）的不安全性</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/9-category/9" class="badge-wrapper bullet" itemprop="item">
+<span class='badge-category-bg' style='background-color: #9EB83B'></span>
+<span class='badge-category clear-badge'>
+<span class='category-name' itemprop='name'>技术</span>
+</span>
+</a>
+<meta itemprop="position" content="1" />
+</span>
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/racl'><span itemprop='name'>racl</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/901">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-05-26T08:19:44Z' class='post-time'>
+2021年05月26日 08:19
+</time>
+<meta itemprop='dateModified' content='2021-05-26T08:19:44Z'>
+<span itemprop='position'>#1</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>看到论坛里有人提到电报并不安全，想了解下除了数据储存在电报官方服务器上还有其他不安全的地方吗？</p>
+</div>
+<meta itemprop='headline' content='想问下电报软件（telegram）的不安全性'>
+<meta itemprop='keywords' content=''>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+ <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Sis6P'><span itemprop='name'>Sis6P</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/901">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-05-26T08:40:33Z' class='post-time'>
+2021年05月26日 08:40
+</time>
+<meta itemprop='dateModified' content='2021-05-26T08:40:33Z'>
+<span itemprop='position'>#2</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>当然有啊，虽然它声称自己能端到端加密，可它的加密协议是几个秘密学爱好者想出来的，并没有经过多少攻击测试，目前电报已经被世界各国政府渗透得差不多了。</p>
+</div>
+<meta itemprop='headline' content='想问下电报软件（telegram）的不安全性'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Kazusa'><span itemprop='name'>Kazusa</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/901">
+<span class="crawler-post-infos">
+<meta itemprop='datePublished' content='2021-05-27T08:56:11Z'>
+<time itemprop='dateModified' datetime='2021-05-27T23:03:31Z' class='post-time'>
+2021年05月27日 23:03
+</time>
+<span itemprop='position'>#3</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<ul>
+<li>默认不启用端到端加密， 端到端加密不支持群聊，任何取得tg服务器权限的人都可以查看非端到端加密对话</li>
+<li>使用自制和未经验证得mtp协议，mtp1.0被发现多个安全漏洞。https:// eprint.iacr. org/2015/1177.pdf</li>
+<li>声称mtp2.0修复了1.0的漏洞，但mtp2.0并未经审核</li>
+<li>使用AES-IGE这种奇怪的加密方式，并且声称他们的实现 “安全” “高性能” <a href="https://core.telegram.org/techfaq#q-do-you-use-ige-ige-is-broken" rel="noopener nofollow ugc">https://core.telegram.org/techfaq#q-do-you-use-ige-ige-is-broken</a>
+</li>
+<li>开了一个奖金200000美元的密码比赛，以没有人成功破解来证明mtp协议“很安全”。但实际上他们设立的比赛框架很有问题，再烂的的协议在这个框 架中都没法被破解 <a href="https://archive.vn/SIl9M" rel="noopener nofollow ugc">https://archive.vn/SIl9M</a>
+</li>
+<li>服务端不开源</li>
+<li>tg的协议被很多密码学家批评过</li>
+<li>不好好处理元数据，以明文方式将电话号码和联系人姓名永久保存在服务器上.ip，设备，应用程序版本与用户名最多可以在服务器上保存12个月</li>
+<li>需要用电话号码来注册,虽然进行了速率限制但仍然可以滥用联系人发现来爬取用户</li>
+<li>本地数据库未加密</li>
+<li>tg上网警极多，主要监视群组消息并用私聊钓鱼，如没有做好身份隔离有可能被抓</li>
+<li>理论上来说，任何用中国手机号注册的tg号都不匿名.通过拦截注册短信要注册的电话号码,趁刚注册时联系人发现默认打开并滥用联系人发现来建立id与电话号码对应数据库</li>
+<li>消息自毁功能只是个装饰品，完全可以构建一个能忽略删除请求的客户端</li>
+</ul>
+<aside class="quote no-group" data-username="Sis6P" data-post="2" data-topic="901" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://mlmmlm.icu/letter_avatar_proxy/v4/letter/s/34f0e0/40.png" class="avatar"> Sis6P:</div>
+<blockquote>
+<p>目前电报已经被世界各国政府渗透得差不多了。</p>
+</blockquote>
+</aside>
+<p><a class="mention" href="/u/sis6p">@Sis6P</a> 来源？</p>
+</div>
+<meta itemprop='headline' content='想问下电报软件（telegram）的不安全性'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="1" />
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Sis6P'><span itemprop='name'>Sis6P</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/901">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-05-27T11:08:34Z' class='post-time'>
+2021年05月27日 11:08
+</time>
+<meta itemprop='dateModified' content='2021-05-27T11:08:34Z'>
+<span itemprop='position'>#4</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>你说的网警极多不就是表现之一吗？另外，其实默认不端到端加密反而不是问题，pidgin xabber 等主流的 xmpp 客户端也不提供默认的端到端加密，提供默认端到端加密的 c11s 系反而是表现糟糕的 xmpp 客户端。</p>
+</div>
+<meta itemprop='headline' content='想问下电报软件（telegram）的不安全性'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+<div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+<div class='crawler-post-meta'>
+<div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
+<meta itemprop='name' content='马列毛群众'>
+<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+</div>
+</div>
+<span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href='https://mlmmlm.icu/u/Kazusa'><span itemprop='name'>Kazusa</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/901">
+<span class="crawler-post-infos">
+<time itemprop='datePublished' datetime='2021-05-27T23:04:19Z' class='post-time'>
+2021年05月27日 23:04
+</time>
+<meta itemprop='dateModified' content='2021-05-27T23:04:19Z'>
+<span itemprop='position'>#5</span>
+</span>
+</div>
+<div class='post' itemprop='articleBody'>
+<p>抛开那些密码学上的细枝末节，用工农的话来说就是，tg可以作为过渡使用通讯工具。虽然它的通信协议有很多漏洞但目前还没有它被破解的证据 。不过想要使用tg,则必须遵守以下规则：</p>
+<ul>
+<li>用虚拟号注册</li>
+<li>注册后立刻关闭“谁能通过电话号码发现我”等选项，拒绝给予tg通讯录权限，删除已同步的联系人</li>
+<li>开启两步验证，不开启两部验证则任何能监视你短信的人都可以登录你的帐号</li>
+<li>使用与你其他帐号不相同的用户名，个人简介与头像</li>
+<li>做好身份隔离，谨慎对待私聊，所有聊天内容都不要包含个人信息,网警24小时监视。目前几乎所有tg上被抓的都是因为没有做好身份隔离</li>
+<li>只建议加入频道,tg所谓“左群”基本只有闲聊娱乐</li>
+<li>顺便，即使没有tg号，也可以使用 <a href="https://t.me/s/@xxx" rel="noopener nofollow ugc">t.me/s/@xxx</a> 来查看公开频道的消息（但不能进行下载文件等操作）</li>
+</ul>
+<p>还是建议转移到xmpp上</p>
+</div>
+<meta itemprop='headline' content='想问下电报软件（telegram）的不安全性'>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="userInteractionCount" content="0" />
+<span class='post-likes'></span>
+</div>
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<meta itemprop="interactionType" content="http://schema.org/CommentAction" />
+<meta itemprop="userInteractionCount" content="0" />
+</div>
+</div>
+</div>
+<footer class="container wrap">
+<nav class='crawler-nav'>
+<ul>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/' itemprop="url">首页 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/categories' itemprop="url">分类 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/guidelines' itemprop="url">FAQ/指引 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/tos' itemprop="url">服务条款 </a>
+</span>
+</li>
+<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+<span itemprop='name'>
+<a href='/privacy' itemprop="url">隐私政策 </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class='powered-by-link'>由 <a href="https://www.discourse.org">Discourse</a>提供支持，启用 JavaScript 以获得最佳体验</p>
+</footer>
+</body>
+</html>

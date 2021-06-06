@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>GNU/Linux的使用</title>
+    <link>https://mlmmlm.icu/t/topic/254</link>
+    <description>含专有blobs的发行版：kali
+
+
+1.在虚拟机上安装
+
+VirtualBox
+
+
+2.在主机上安装
+
+可以买二手笔记本或者树莓派。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 19 Jan 2021 13:56:33 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/254.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>GNU/Linux的使用</title>
+        <dc:creator><![CDATA[msc]]></dc:creator>
+        <description><![CDATA[
+            <p>感觉还是要自己学，这东西能写一本书。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/254/2">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/254/2</link>
+        <pubDate>Tue, 19 Jan 2021 13:56:33 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-254-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/254.rss">GNU/Linux的使用</source>
+      </item>
+      <item>
+        <title>GNU/Linux的使用</title>
+        <dc:creator><![CDATA[msc]]></dc:creator>
+        <description><![CDATA[
+            <p>含专有blobs的发行版：kali</p>
+<p>1.在虚拟机上安装</p>
+<p>VirtualBox</p>
+<p>2.在主机上安装</p>
+<p>可以买二手笔记本或者树莓派。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/254/1">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/254/1</link>
+        <pubDate>Tue, 19 Jan 2021 07:50:01 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-254-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/254.rss">GNU/Linux的使用</source>
+      </item>
+  </channel>
+</rss>
