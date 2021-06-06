@@ -265,7 +265,7 @@
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
-<a href='../../categories' itemprop="url">分类 </a>
+ <a href='../../categories' itemprop="url">分类 </a>
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>

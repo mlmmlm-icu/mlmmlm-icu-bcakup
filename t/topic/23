@@ -228,7 +228,7 @@
 <time itemprop='datePublished' datetime='2020-08-29T03:44:46Z' class='post-time'>
 2020年08月29日 03:44
 </time>
-<meta itemprop='dateModified' content='2020-08-29T03:44:46Z'>
+ <meta itemprop='dateModified' content='2020-08-29T03:44:46Z'>
 <span itemprop='position'>#5</span>
 </span>
 </div>
@@ -476,7 +476,7 @@ revisionist line 修正主义路线</p>
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
-<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+ <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
@@ -658,7 +658,7 @@ party, government, military, civilian, and academic</p>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
- <meta itemprop="userInteractionCount" content="0" />
+<meta itemprop="userInteractionCount" content="0" />
 </div>
 </div>
 <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>

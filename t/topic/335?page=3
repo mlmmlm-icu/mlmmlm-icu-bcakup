@@ -194,7 +194,7 @@ zh.wikipedia.org › zh-hans › 刘少奇<br>
 <a href='../../guidelines' itemprop="url">FAQ/指引 </a>
 </span>
 </li>
-<li itemscope itemtype='http://schema.org/SiteNavigationElement'>
+ <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='../../tos' itemprop="url">服务条款 </a>
 </span>

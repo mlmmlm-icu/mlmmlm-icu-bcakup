@@ -10,6 +10,7 @@
 社会主义政治经济学 
 未定稿第二版 1975 https://b-ok.a&amp;hellip;">
 <meta name="generator" content="Discourse 2.7.0.beta4 - https://github.com/discourse/discourse version 522dae22c4cea5c8c05f53771dcd6fa8085c54c2">
+<<<<<<< HEAD
 <link rel="icon" type="image/png" href="../../../uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
 <link rel="apple-touch-icon" type="image/png" href="../../../uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
 <meta name="theme-color" content="#ffffff">
@@ -20,6 +21,18 @@
 <link href="../../../stylesheets/desktop_91679fbb32c2a361ad6122ca6474f8ccd3e0b306.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" data-theme-id="2" />
 <link href="../../../stylesheets/desktop_theme_2_3e2557f5e9fa8e0c5cf59e3d928c10fd45659f6e.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" />
 <link rel="alternate" type="application/rss+xml" title=" &#39;推荐几本政治经济学书籍&#39;的RSS源" href="../77.rss" />
+=======
+<link rel="icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://mlmmlm.icu/uploads/default/optimized/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="https://mlmmlm.icu/t/topic/77" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://mlmmlm.icu","potentialAction":{"@type":"SearchAction","target":"https://mlmmlm.icu/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="https://mlmmlm.icu/opensearch.xml" title="马列毛群众 Search">
+<link href="/stylesheets/desktop_91679fbb32c2a361ad6122ca6474f8ccd3e0b306.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop" data-theme-id="2" />
+<link href="/stylesheets/desktop_theme_2_3e2557f5e9fa8e0c5cf59e3d928c10fd45659f6e.css?__ws=mlmmlm.icu" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2" />
+<link rel="alternate" type="application/rss+xml" title=" &#39;推荐几本政治经济学书籍&#39;的RSS源" href="https://mlmmlm.icu/t/topic/77.rss" />
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <meta property="og:site_name" content="马列毛群众" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:image" content="https://mlmmlm.icu/uploads/default/original/1X/a33fc15368ea2a75e178ac1d0ba6c73f0ee2998c.png" />
@@ -35,18 +48,31 @@
 </head>
 <body class="crawler">
 <header>
+<<<<<<< HEAD
 <a href="../../../index.html">
 <img src="../../../uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png" alt="马列毛群众" id="site-logo" style="max-width: 150px;">
+=======
+<a href="/">
+<img src="https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png" alt="马列毛群众" id="site-logo" style="max-width: 150px;">
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 </a>
 </header>
 <div id="main-outlet" class="wrap">
 <div id="topic-title">
 <h1>
+<<<<<<< HEAD
 <a href="../77">推荐几本政治经济学书籍</a>
 </h1>
 <div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
 <a href="../../../c/10-category/10" class="badge-wrapper bullet" itemprop="item">
+=======
+<a href="/t/topic/77">推荐几本政治经济学书籍</a>
+</h1>
+<div class="topic-category" itemscope itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a href="https://mlmmlm.icu/c/10-category/10" class="badge-wrapper bullet" itemprop="item">
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <span class='badge-category-bg' style='background-color: #0E76BD'></span>
 <span class='badge-category clear-badge'>
 <span class='category-name' itemprop='name'>学习导引</span>
@@ -65,9 +91,15 @@
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<<<<<<< HEAD
 <a itemprop="url" href='../../../u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="../77">
+=======
+<a itemprop="url" href='https://mlmmlm.icu/u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/77">
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2020-09-13T17:31:49Z' class='post-time'>
 2020年09月13日 17:31
@@ -114,9 +146,15 @@
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<<<<<<< HEAD
 <a itemprop="url" href='../../../u/msc'><span itemprop='name'>msc</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="../77">
+=======
+<a itemprop="url" href='https://mlmmlm.icu/u/msc'><span itemprop='name'>msc</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/77">
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2020-10-05T12:29:33Z' class='post-time'>
 2020年10月5日 12:29
@@ -127,7 +165,11 @@
 </div>
 <div class='post' itemprop='articleBody'>
 <p>未定稿第二版讨论稿 1976.9 文字版 （感谢ConRev）</p>
+<<<<<<< HEAD
 <p><a class="attachment" href="../../../uploads/short-url/lTFi2U99PWCrTQmVn4nkXgC11nM.pdf">社会主义政治经济学（1976.9）粗校版.pdf</a> (2.5 MB)</p>
+=======
+<p><a class="attachment" href="/uploads/short-url/lTFi2U99PWCrTQmVn4nkXgC11nM.pdf">社会主义政治经济学（1976.9）粗校版.pdf</a> (2.5 MB)</p>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 </div>
 <meta itemprop='headline' content='推荐几本政治经济学书籍'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
@@ -141,14 +183,22 @@
 </div>
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<<<<<<< HEAD
 <a href="../173/4" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+=======
+<a href="https://mlmmlm.icu/t/topic/173/4" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/173/4'>
 <span itemprop='name'>《社会主义政治经济学 》 翻译计划今天启动了</span>
 </a>
 <meta itemprop='position' content='2'>
 </div>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<<<<<<< HEAD
 <a href="../174/5" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+=======
+<a href="https://mlmmlm.icu/t/topic/174/5" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/174/5'>
 <span itemprop='name'>序言的翻译 The translation of the preface</span>
 </a>
@@ -165,9 +215,15 @@
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<<<<<<< HEAD
 <a itemprop="url" href='../../../u/adt'><span itemprop='name'>adt</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="../77">
+=======
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/77">
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <span class="crawler-post-infos">
 <meta itemprop='datePublished' content='2020-10-15T18:46:44Z'>
 <time itemprop='dateModified' datetime='2020-10-16T09:23:07Z' class='post-time'>
@@ -180,6 +236,7 @@
 <p>对《社会主义政治经济学》的批判：</p>
 <p><a href="http://www.laoziliao.net/rmrb/1977-11-24-2#495391" class="onebox" target="_blank" rel="noopener nofollow ugc">http://www.laoziliao.net/rmrb/1977-11-24-2#495391</a><br>
 一本为“四人帮”反革命政治纲领制造理论根据的书——评“四人帮”组织编写的《社会主义政治经济学》</p>
+<<<<<<< HEAD
 <p><a class="attachment" href="../../../uploads/short-url/yH3U7tiBZAeQfRosujJ0RmCAqal.pdf">一个反动的理论体系_四人帮_组织编写的_社会主义政治经济学_批判_董辅礽.pdf</a> (780.8 KB)</p>
 <p><a class="attachment" href="../../../uploads/short-url/qBHYlMKd3qFfxiVl3s9jMmVswjR.pdf">驳_四人邦_的_权力资本论_兼批黑书_社会主义政治经济学_李少宇.pdf</a> (559.6 KB)</p>
 <p><a class="attachment" href="../../../uploads/short-url/9Sk4lqZ6XKA1y28JKLzwWQz5Vz9.pdf">剖析社会主义生产关系_二因素_论的反动性_李连进.pdf</a> (601.2 KB)</p>
@@ -189,6 +246,17 @@
 <p><a class="attachment" href="../../../uploads/short-url/aNzUH9FkkHY6Ke1vMRrahjdTpiK.pdf">评为篡党夺权服务的《社会主义政治经济学》的理论核心.pdf</a> (407.6 KB)</p>
 <p><a class="attachment" href="../../../uploads/short-url/nq34fmE7bYrscMddZHL7GuX3OAn.pdf">重新学习马克思主义关于生产力的决定作用的原理_赵士奎.pdf</a> (329.2 KB)</p>
 <p><a class="attachment" href="../../../uploads/short-url/iQvPL3XW0ObrTtpFNA3PUTr5YSm.pdf">科学技术就是生产力_高潮.pdf</a> (860.8 KB)</p>
+=======
+<p><a class="attachment" href="/uploads/short-url/yH3U7tiBZAeQfRosujJ0RmCAqal.pdf">一个反动的理论体系_四人帮_组织编写的_社会主义政治经济学_批判_董辅礽.pdf</a> (780.8 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/qBHYlMKd3qFfxiVl3s9jMmVswjR.pdf">驳_四人邦_的_权力资本论_兼批黑书_社会主义政治经济学_李少宇.pdf</a> (559.6 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/9Sk4lqZ6XKA1y28JKLzwWQz5Vz9.pdf">剖析社会主义生产关系_二因素_论的反动性_李连进.pdf</a> (601.2 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/1lIxRy1yU8SQ5yuO9xXfNZb2gG8.pdf">社会主义商品生产会不断分泌出资本主义和资产阶级吗_实学.pdf</a> (389.1 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/lVM5uG8zDoanST5jGnFpF3Sw2xh.pdf">驳_四人帮_捏造的_社会主义生产关系的二重性_胡瑞梁.pdf</a> (840.2 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/70UaGVP5Vwuev3xYDrhawjlNePZ.pdf">驳_四人帮_所谓_社会主义生产关系二重性_的谬论_黄震.pdf</a> (458.2 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/aNzUH9FkkHY6Ke1vMRrahjdTpiK.pdf">评为篡党夺权服务的《社会主义政治经济学》的理论核心.pdf</a> (407.6 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/nq34fmE7bYrscMddZHL7GuX3OAn.pdf">重新学习马克思主义关于生产力的决定作用的原理_赵士奎.pdf</a> (329.2 KB)</p>
+<p><a class="attachment" href="/uploads/short-url/iQvPL3XW0ObrTtpFNA3PUTr5YSm.pdf">科学技术就是生产力_高潮.pdf</a> (860.8 KB)</p>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <p>很多地方没什么可看的，就是造谣（F4治下资本主义泛滥）还有独断论（我国社会主义制度十分完善）。</p>
 </div>
 <meta itemprop='headline' content='推荐几本政治经济学书籍'>
@@ -211,10 +279,17 @@
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<<<<<<< HEAD
 <a itemprop="url" href='../../../u/adt'><span itemprop='name'>adt</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="../77">
 <link itemprop="image" href="../../../uploads/default/original/1X/a044456856ca9ede07581767502499b78b67131d.png">
+=======
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/77">
+<link itemprop="image" href="https://mlmmlm.icu/uploads/default/original/1X/a044456856ca9ede07581767502499b78b67131d.png">
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <span class="crawler-post-infos">
 <meta itemprop='datePublished' content='2020-10-15T19:12:08Z'>
 <time itemprop='dateModified' datetime='2020-10-15T19:32:54Z' class='post-time'>
@@ -224,7 +299,11 @@
 </span>
 </div>
  <div class='post' itemprop='articleBody'>
+<<<<<<< HEAD
 <p><div class="lightbox-wrapper"><a class="lightbox" href="../../../uploads/default/original/1X/a044456856ca9ede07581767502499b78b67131d.png" data-download-href="https://mlmmlm.icu/uploads/default/a044456856ca9ede07581767502499b78b67131d" title="image"><img src="../../../uploads/default/optimized/1X/a044456856ca9ede07581767502499b78b67131d_2_268x500.png" alt="image" data-base62-sha1="mRMFg6hpOaRfjdN0OzikFWOy6Nn" width="268" height="500" srcset="../../../uploads/default/optimized/1X/a044456856ca9ede07581767502499b78b67131d_2_268x500.png, ../../../uploads/default/optimized/1X/a044456856ca9ede07581767502499b78b67131d_2_402x750.png 1.5x, ../../../uploads/default/optimized/1X/a044456856ca9ede07581767502499b78b67131d_2_536x1000.png 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/1X/a044456856ca9ede07581767502499b78b67131d_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1039×1937 217 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div><br>
+=======
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/1X/a044456856ca9ede07581767502499b78b67131d.png" data-download-href="https://mlmmlm.icu/uploads/default/a044456856ca9ede07581767502499b78b67131d" title="image"><img src="https://mlmmlm.icu/uploads/default/optimized/1X/a044456856ca9ede07581767502499b78b67131d_2_268x500.png" alt="image" data-base62-sha1="mRMFg6hpOaRfjdN0OzikFWOy6Nn" width="268" height="500" srcset="https://mlmmlm.icu/uploads/default/optimized/1X/a044456856ca9ede07581767502499b78b67131d_2_268x500.png, https://mlmmlm.icu/uploads/default/optimized/1X/a044456856ca9ede07581767502499b78b67131d_2_402x750.png 1.5x, https://mlmmlm.icu/uploads/default/optimized/1X/a044456856ca9ede07581767502499b78b67131d_2_536x1000.png 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/1X/a044456856ca9ede07581767502499b78b67131d_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1039×1937 217 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div><br>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 董辅礽极尽歪曲之能事，不惜篡改革命导师语录。<br>
 原文：<br>
 政治、法、哲学、宗教、文学、艺术等等的发展是以经济发展为基础的。但是，它们又都互相作用并对经济基础发生作用。这并不是说，只有经济状况才是<strong>原因，才是积极的</strong>，其余一切都不过是消极的结果，而是说，这是在<strong>归根到底</strong>不断为自己开辟道路的经济必然性的基础上的相互作用。例如，国家就是通过保护关税、自由贸易、好的或者坏的财政制度发生作用的，甚至德国庸人的那种从１６４８—１８３０年德国经济的可怜状况中产生的致命的疲惫和软弱（最初表现为虔诚主义，而后表现为多愁善感和对诸侯贵族的奴颜婢膝），也不是没有对经济起过作用。这曾是重新振兴的最大障碍之一，而这一障碍只是由于革命战争和拿破仑战争把慢性的穷困变成了急性的穷困才动摇了。所以，并不像人们有时不加思考地想象的那样是经济状况自动发生作用，而是人们自己创造自己的历史，但他们是在既定的、制约着他们的环境中，是在现有的现实关系的基础上进行创造的，在这些现实关系中，经济关系不管受到其他关系———政治的和意识形态的———多大影响，归根到底还是具有决定意义的，它构成一条贯穿始终的、唯一有助于理解的红线。<br>
@@ -255,9 +334,15 @@
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<<<<<<< HEAD
 <a itemprop="url" href='../../../u/adt'><span itemprop='name'>adt</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="../77">
+=======
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/77">
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2020-10-15T19:50:04Z' class='post-time'>
 2020年10月15日 19:50
@@ -292,9 +377,15 @@
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<<<<<<< HEAD
 <a itemprop="url" href='../../../u/adt'><span itemprop='name'>adt</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="../77">
+=======
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/77">
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <span class="crawler-post-infos">
 <meta itemprop='datePublished' content='2021-02-28T08:14:41Z'>
 <time itemprop='dateModified' datetime='2021-02-28T08:15:14Z' class='post-time'>
@@ -304,7 +395,11 @@
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
+<<<<<<< HEAD
 <p><a class="attachment" href="../../../uploads/short-url/ngAlevqj3RnBqpYiMT5QyQgK4hE.docx">政治经济学基础知识.docx</a> (397.7 KB)</p>
+=======
+<p><a class="attachment" href="https://mlmmlm.icu/uploads/short-url/ngAlevqj3RnBqpYiMT5QyQgK4hE.docx">政治经济学基础知识.docx</a> (397.7 KB)</p>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <p>这本书比较重要，应优先校对。</p>
 </div>
 <meta itemprop='headline' content='推荐几本政治经济学书籍'>
@@ -319,7 +414,11 @@
 </div>
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<<<<<<< HEAD
 <a href="../130" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+=======
+<a href="https://mlmmlm.icu/t/topic/130" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/130'>
 <span itemprop='name'>必读的文章和书籍</span>
 </a>
@@ -336,9 +435,15 @@
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<<<<<<< HEAD
 <a itemprop="url" href='../../../u/adt'><span itemprop='name'>adt</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="../77">
+=======
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/77">
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2021-03-23T17:24:33Z' class='post-time'>
 2021年03月23日 17:24
@@ -349,7 +454,11 @@
 </div>
 <div class='post' itemprop='articleBody'>
 <p>校对至180页<br>
+<<<<<<< HEAD
 <a class="attachment" href="../../../uploads/short-url/m5QpldhnrFObSELL3HDhPIImqTu.docx">政治经济学基础知识.docx</a> (727.0 KB)</p>
+=======
+<a class="attachment" href="/uploads/short-url/m5QpldhnrFObSELL3HDhPIImqTu.docx">政治经济学基础知识.docx</a> (727.0 KB)</p>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 </div>
 <meta itemprop='headline' content='推荐几本政治经济学书籍'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
@@ -371,9 +480,15 @@
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<<<<<<< HEAD
 <a itemprop="url" href='../../../u/adt'><span itemprop='name'>adt</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="../77">
+=======
+<a itemprop="url" href='https://mlmmlm.icu/u/adt'><span itemprop='name'>adt</span></a>
+</span>
+<link itemprop="mainEntityOfPage" href="https://mlmmlm.icu/t/topic/77">
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2021-05-17T07:29:28Z' class='post-time'>
 2021年05月17日 07:29
@@ -383,7 +498,11 @@
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
+<<<<<<< HEAD
 <p><a class="attachment" href="../../../uploads/short-url/crjHuqbaWs07ic6Z2l8jra50vU.pdf">马克思经济学与数理分析.pdf</a> (6.0 MB)</p>
+=======
+<p><a class="attachment" href="/uploads/short-url/crjHuqbaWs07ic6Z2l8jra50vU.pdf">马克思经济学与数理分析.pdf</a> (6.0 MB)</p>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 <p>大体无错，供参考。</p>
 </div>
 <meta itemprop='headline' content='推荐几本政治经济学书籍'>
@@ -403,27 +522,47 @@
 <ul>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
+<<<<<<< HEAD
 <a href='../../../index.html' itemprop="url">首页 </a>
+=======
+<a href='/' itemprop="url">首页 </a>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
+<<<<<<< HEAD
 <a href='../../../categories' itemprop="url">分类 </a>
+=======
+<a href='/categories' itemprop="url">分类 </a>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
+<<<<<<< HEAD
 <a href='../../../guidelines' itemprop="url">FAQ/指引 </a>
+=======
+<a href='/guidelines' itemprop="url">FAQ/指引 </a>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
+<<<<<<< HEAD
 <a href='../../../tos' itemprop="url">服务条款 </a>
+=======
+<a href='/tos' itemprop="url">服务条款 </a>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
+<<<<<<< HEAD
 <a href='../../../privacy' itemprop="url">隐私政策 </a>
+=======
+<a href='/privacy' itemprop="url">隐私政策 </a>
+>>>>>>> 086bbca1402423c69ad5ac0dcfdd771bd764a73b
 </span>
 </li>
 </ul>

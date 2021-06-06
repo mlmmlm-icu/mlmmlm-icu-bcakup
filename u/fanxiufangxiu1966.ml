@@ -39,7 +39,7 @@
 <img src='../letter_avatar_proxy/v4/letter/f/67e7ee/45.png' alt='fanxiufangxiu1966.ml' title='fanxiufangxiu1966.ml' />
 <h2 class='username'>fanxiufangxiu1966.ml</h2>
 </div>
-<p><p><a href="../cdn-cgi/l/email-protection#96f5faf7e4ffe5f7fbf9e2e2e4faf5fea1afd6f1fbf7fffab8f5f9fb"><span class="__cf_email__" data-cfemail="4f2c232e3d263c2e22203b3b3d232c2778760f28222e2623612c2022">[email&#160;protected]</span></a><br>
+<p><p><a href="../cdn-cgi/l/email-protection#c1a2ada0b3a8b2a0acaeb5b5b3ada2a9f6f881a6aca0a8adefa2aeac"><span class="__cf_email__" data-cfemail="8eede2effce7fdefe3e1fafafce2ede6b9b7cee9e3efe7e2a0ede1e3">[email&#160;protected]</span></a><br>
 布布的邮箱</p></p>
 </div>
 <footer class="container wrap">

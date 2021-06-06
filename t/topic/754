@@ -110,7 +110,7 @@
 <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
 <a href="919/6" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
-<meta itemprop='url' content='https://mlmmlm.icu/t/topic/919/6'>
+ <meta itemprop='url' content='https://mlmmlm.icu/t/topic/919/6'>
 <span itemprop='name'>请问有没有paper和新闻的往期报纸资料留存</span>
 </a>
 <meta itemprop='position' content='1'>
@@ -147,7 +147,7 @@
 <div class='post' itemprop='articleBody'>
 <p>悲啊<br>
 但愿中国革命再现春雷</p>
- </div>
+</div>
 <meta itemprop='headline' content='新聞永久停刊声明'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />

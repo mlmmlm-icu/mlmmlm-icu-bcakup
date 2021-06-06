@@ -97,7 +97,7 @@
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
-</div>
+ </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
 <a itemprop="url" href='../../u/mlmmlm_admin'><span itemprop='name'>mlmmlm_admin</span></a>
 </span>
@@ -211,7 +211,7 @@
 <meta itemprop='dateModified' content='2021-01-01T11:42:56Z'>
 <span itemprop='position'>#5</span>
 </span>
- </div>
+</div>
 <div class='post' itemprop='articleBody'>
 <p>也许还要十年，二十年</p>
 </div>
@@ -231,7 +231,7 @@
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
 <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
-<meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
+ <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
 <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -305,7 +305,7 @@
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
-<a href='../../categories' itemprop="url">分类 </a>
+ <a href='../../categories' itemprop="url">分类 </a>
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>

@@ -108,7 +108,7 @@
 </div>
 <div class='post' itemprop='articleBody'>
 <p>大可尝试嘛。</p>
- </div>
+</div>
 <meta itemprop='headline' content='新人想請教一些問題。'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
@@ -141,7 +141,7 @@
 </span>
 </div>
 <div class='post' itemprop='articleBody'>
-<p>完全可以，论坛需要许多同志一起来建设</p>
+ <p>完全可以，论坛需要许多同志一起来建设</p>
 </div>
 <meta itemprop='headline' content='新人想請教一些問題。'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
@@ -340,7 +340,7 @@
 <span class="crawler-post-infos">
 <time itemprop='datePublished' datetime='2021-05-24T12:26:05Z' class='post-time'>
 2021年05月24日 12:26
-</time>
+ </time>
 <meta itemprop='dateModified' content='2021-05-24T12:26:05Z'>
 <span itemprop='position'>#9</span>
 </span>
@@ -406,7 +406,7 @@
 </span>
 <link itemprop="mainEntityOfPage" href="887">
 <span class="crawler-post-infos">
-<meta itemprop='datePublished' content='2021-05-25T07:56:10Z'>
+ <meta itemprop='datePublished' content='2021-05-25T07:56:10Z'>
 <time itemprop='dateModified' datetime='2021-05-25T07:58:47Z' class='post-time'>
 2021年05月25日 07:58
 </time>
@@ -508,7 +508,7 @@
 <span itemprop='name'>
 <a href='../../categories' itemprop="url">分类 </a>
 </span>
- </li>
+</li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='../../guidelines' itemprop="url">FAQ/指引 </a>

@@ -186,7 +186,7 @@
 <time itemprop='datePublished' datetime='2020-09-15T19:45:49Z' class='post-time'>
 2020年09月15日 19:45
 </time>
-<meta itemprop='dateModified' content='2020-09-15T19:45:49Z'>
+ <meta itemprop='dateModified' content='2020-09-15T19:45:49Z'>
 <span itemprop='position'>#3</span>
 </span>
 </div>
@@ -348,7 +348,7 @@
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='../../categories' itemprop="url">分类 </a>
- </span>
+</span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>

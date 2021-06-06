@@ -97,7 +97,7 @@
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
 <a href='../../index.html' itemprop="url">首页 </a>
-</span>
+ </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>

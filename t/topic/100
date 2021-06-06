@@ -120,7 +120,7 @@
 </div>
 <meta itemprop='headline' content='毛主义是什么？'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
-<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+ <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
@@ -236,7 +236,7 @@
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="1" />
-</div>
+ </div>
 </div>
 <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
 <div class='crawler-post-meta'>

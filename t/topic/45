@@ -235,7 +235,7 @@
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
-<span itemprop='name'>
+ <span itemprop='name'>
 <a href='../../guidelines' itemprop="url">FAQ/指引 </a>
 </span>
 </li>

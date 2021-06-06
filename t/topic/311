@@ -98,7 +98,7 @@
 <meta itemprop='position' content='2'>
 </div>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
-<a href="19" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+<a href="https://mlmmlm.icu/t/topic/19" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/19'>
 <span itemprop='name'>可以利用的网站 | 必看的和推荐的书籍、文章</span>
 </a>
@@ -142,7 +142,7 @@
 <p>Android：推荐使用 <strong>pix-art messages</strong>，支持 OMEMO 和 OpenPGP；（不推荐 Xabber）</p>
 <p>iOS 系统？chatsecure 的 iOS 版可能算半个，不过并不好用，往往会丢消息，只有越狱并设法禁止自动挂起网络才能彻底解决这个问题——因为烂苹果这个自诩比用户自己还懂用户的需求的暴君通过一系列恶心的设计把为 iOS 用户提供邦联化的即时通信服务这个本应仅仅需要一条持久 TCP 连接和客户端断线时重连的工作变得难如登天——基本上想为 iOS 实现即时通信服务就必须在一定程度上放弃邦联化，开发者还必须接受烂苹果的盘剥才能保证其用户能及时收到消息——这使得 iOS 能用的即时通信服务基本上都是圆形监狱。所以，如果您是烂苹果的受害者，只能建议您<strong>卖掉</strong> iThing 这个烂苹果的禁脔，<strong>换</strong>更便宜也更自由的 <strong>android</strong> 设备了。</p>
 <h3>四、登陆及使用</h3>
-<p>登陆时如果失败，请检查JID是否完整，一个完整的JID应是 <a href="../../cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="eb9e988e99858a868eab988e999d8e99858a868e">[email&#160;protected]</a>，例如<a href="../../cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2b1a19181f1e1d6b1f1b1f0548425f52">[email&#160;protected]</a>，检查登录时是否正确输入。</p>
+<p>登陆时如果失败，请检查JID是否完整，一个完整的JID应是 <a href="../../cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="661315031408070b032615031410031408070b03">[email&#160;protected]</a>，例如<a href="../../cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="41707372757477017571756f22283538">[email&#160;protected]</a>，检查登录时是否正确输入。</p>
 <p>建议将设置中所有加密选项选上。比如总是开启OMEMO加密，退出设备后清除聊天记录等。</p>
 </div>
 <meta itemprop='headline' content='XMPP加密通讯简明教程'>

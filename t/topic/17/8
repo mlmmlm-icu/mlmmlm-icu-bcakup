@@ -257,7 +257,7 @@ steghide</p>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
-<span class='post-likes'></span>
+ <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
@@ -383,7 +383,7 @@ steghide</p>
 <meta itemprop='position' content='3'>
 </div>
 <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
-<a href="../19" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
+<a href="https://mlmmlm.icu/t/topic/19" itemscope itemtype='http://schema.org/DiscussionForumPosting' itemprop='item'>
 <meta itemprop='url' content='https://mlmmlm.icu/t/topic/19'>
 <span itemprop='name'>可以利用的网站 | 必看的和推荐的书籍、文章</span>
 </a>

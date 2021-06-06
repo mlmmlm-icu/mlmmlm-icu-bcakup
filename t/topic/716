@@ -186,7 +186,7 @@
 <meta itemprop='headline' content='微幕 O$ ——在恶意里找“便利”'>
 <meta itemprop='keywords' content=''>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
- <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
+<meta itemprop="interactionType" content="http://schema.org/LikeAction" />
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>

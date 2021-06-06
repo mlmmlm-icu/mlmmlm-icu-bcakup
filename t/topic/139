@@ -46,7 +46,7 @@
 <span class='badge-category clear-badge'>
 <span class='category-name' itemprop='name'>文献 | 书籍</span>
 </span>
- </a>
+</a>
 <meta itemprop="position" content="1" />
 </span>
 </div>
@@ -526,7 +526,7 @@ Rest in peace, beloved Comrade Mao. We Italian Marxists-Leninists will always ke
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>
 <span itemprop='name'>
-<a href='../../guidelines' itemprop="url">FAQ/指引 </a>
+ <a href='../../guidelines' itemprop="url">FAQ/指引 </a>
 </span>
 </li>
 <li itemscope itemtype='http://schema.org/SiteNavigationElement'>

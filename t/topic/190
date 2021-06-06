@@ -396,7 +396,7 @@
 <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
- <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+<div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/CommentAction" />
 <meta itemprop="userInteractionCount" content="0" />
 </div>
@@ -453,7 +453,7 @@
 </span>
 <link itemprop="mainEntityOfPage" href="190">
 <span class="crawler-post-infos">
- <time itemprop='datePublished' datetime='2021-01-22T16:58:29Z' class='post-time'>
+<time itemprop='datePublished' datetime='2021-01-22T16:58:29Z' class='post-time'>
 2021年01月22日 16:58
 </time>
 <meta itemprop='dateModified' content='2021-01-22T16:58:29Z'>
@@ -467,7 +467,7 @@
 <meta itemprop='headline' content='公有制的两种形式——集体所有制和全民所有制'>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
 <meta itemprop="interactionType" content="http://schema.org/LikeAction" />
-<meta itemprop="userInteractionCount" content="0" />
+ <meta itemprop="userInteractionCount" content="0" />
 <span class='post-likes'></span>
 </div>
 <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">

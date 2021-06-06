@@ -67,6 +67,7 @@
 <a itemprop="url" href='../../u/adt'><span itemprop='name'>adt</span></a>
 </span>
 <link itemprop="mainEntityOfPage" href="611">
+
 <span class="crawler-post-infos">
 <meta itemprop='datePublished' content='2021-03-11T01:35:58Z'>
 <time itemprop='dateModified' datetime='2021-03-11T01:36:27Z' class='post-time'>
@@ -147,7 +148,7 @@
 <div class='crawler-post-meta'>
 <div itemprop='publisher' itemscope itemtype="http://schema.org/Organization">
 <meta itemprop='name' content='马列毛群众'>
-<div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
+ <div itemprop='logo' itemscope itemtype="http://schema.org/ImageObject">
 <meta itemprop='url' content='https://mlmmlm.icu/uploads/default/original/1X/c7a55769823a013b64a3537f903ab64eff32e4a4.png'>
 </div>
 </div>
