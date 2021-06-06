@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>【重要】如何备份本站</title>
+    <link>https://mlmmlm.icu/t/topic/172</link>
+    <description>只需要一行命令即可
+
+```
+wget --wait=1 --recursive --page-requisites --user-agent &quot;Googlebot&quot; https://mlmmlm.icu
+```
+
+如果没有
+`--wait=1` 会出现`  ERROR 429: Too Many Requests. `
+
+欢迎大家备份。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 06 Jun 2021 09:59:12 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/172.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>【重要】如何备份本站</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>为wget设置代理</p>
+<p><a href="https://stackoverflow.com/questions/11211705/how-to-set-proxy-for-wget">https://stackoverflow.com/questions/11211705/how-to-set-proxy-for-wget</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/172/3">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/172/3</link>
+        <pubDate>Sun, 06 Jun 2021 09:59:12 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-172-3</guid>
+        <source url="https://mlmmlm.icu/t/topic/172.rss">【重要】如何备份本站</source>
+      </item>
+      <item>
+        <title>【重要】如何备份本站</title>
+        <dc:creator><![CDATA[anon65721230]]></dc:creator>
+        <description><![CDATA[
+            <p>Windows下需要先安装GNU wget，它是一个在网络上进行下载的简单而强大的自由软件，其本身也是GNU计划的一部分。它的名字是“World Wide Web”和“Get”的结合，同时也隐含了软件的主要功能。目前它支持通过HTTP、HTTPS，以及FTP这三个最常见的TCP/IP协议协议下载。</p>
+<p>Win10安装wget<a href="https://www.jianshu.com/p/a8dfc762ba3b" rel="noopener nofollow ugc">教程</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/172/2">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/172/2</link>
+        <pubDate>Sat, 06 Feb 2021 08:22:22 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-172-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/172.rss">【重要】如何备份本站</source>
+      </item>
+      <item>
+        <title>【重要】如何备份本站</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>只需要一行命令即可</p>
+<pre><code class="lang-auto">wget --wait=1 --recursive --page-requisites --user-agent "Googlebot" https://mlmmlm.icu
+</code></pre>
+<p>如果没有<br>
+<code>--wait=1</code> 会出现<code> ERROR 429: Too Many Requests.</code></p>
+<p>欢迎大家备份。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/172/1">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/172/1</link>
+        <pubDate>Mon, 07 Dec 2020 12:34:30 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-172-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/172.rss">【重要】如何备份本站</source>
+      </item>
+  </channel>
+</rss>

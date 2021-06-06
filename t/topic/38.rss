@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>图片，不好！文字，好！利用OCR技术讲图片转换为文字</title>
+    <link>https://mlmmlm.icu/t/topic/38</link>
+    <description>得益于Unicode，不同的文字可以统一地在计算机上处理并且传播。
+
+由于历史原因，重要的文件在纸质载体上保存下来，这对于我们的录入工作带来一定的难度。
+
+这个论坛目前的主要工作是完成尚未录入的重要文件录入工作。
+
+直接考手工输入文字工作量很大。这时我们就需要用OCR。
+
+如果有什么好用的工具请在下方留言。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 23 Feb 2021 08:34:59 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/38.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>图片，不好！文字，好！利用OCR技术讲图片转换为文字</title>
+        <dc:creator><![CDATA[mlmmlm_admin]]></dc:creator>
+        <description><![CDATA[
+            <p>得益于Unicode，不同的文字可以统一地在计算机上处理并且传播。</p>
+<p>由于历史原因，重要的文件在纸质载体上保存下来，这对于我们的录入工作带来一定的难度。</p>
+<p>这个论坛目前的主要工作是完成尚未录入的重要文件录入工作。</p>
+<p>直接考手工输入文字工作量很大。这时我们就需要用OCR。</p>
+<p>如果有什么好用的工具请在下方留言。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/38/1">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/38/1</link>
+        <pubDate>Sat, 29 Aug 2020 07:23:45 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-38-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/38.rss">图片，不好！文字，好！利用OCR技术讲图片转换为文字</source>
+      </item>
+  </channel>
+</rss>

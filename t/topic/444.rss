@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>希望大家上传各类文件到网络上时都清除元数据</title>
+    <link>https://mlmmlm.icu/t/topic/444</link>
+    <description>希望大家上传各类文件到网络上时都清除元数据（metadata），不然后果是极其严重的。
+
+下图是元数据一览：（提取自一张大家上传自论坛的图片，至于是哪一张我就不说了）
+![1](upload://mGYrg6uwc1ZmC05wLcaqtfDL0h4.png) 
+
+可以看到，拍摄照片的设备，拍摄时间，焦距等个人信息都一览无余。只是图片元数据的一部分，其他的我没有截图。
+
+除了图片，PDF中也含有元数据。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 18 Feb 2021 06:23:08 +0000</lastBuildDate>
+    <category>技术</category>
+    <atom:link href="https://mlmmlm.icu/t/topic/444.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>希望大家上传各类文件到网络上时都清除元数据</title>
+        <dc:creator><![CDATA[anon65721230]]></dc:creator>
+        <description><![CDATA[
+            <p>GNU/Linux上清除元数据可以使用MAT（元数据匿名工具箱）。Windows可以使用Exiftool。</p>
+<p><a href="https://linux.cn/article-3969-1.html"> 如何在Linux上移除文件内的隐私数据</a></p>
+          <p><a href="https://mlmmlm.icu/t/topic/444/2">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/444/2</link>
+        <pubDate>Thu, 18 Feb 2021 06:23:08 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-444-2</guid>
+        <source url="https://mlmmlm.icu/t/topic/444.rss">希望大家上传各类文件到网络上时都清除元数据</source>
+      </item>
+      <item>
+        <title>希望大家上传各类文件到网络上时都清除元数据</title>
+        <dc:creator><![CDATA[anon65721230]]></dc:creator>
+        <description><![CDATA[
+            <p>希望大家上传各类文件到网络上时都清除元数据（metadata），不然后果是极其严重的。</p>
+<p>下图是元数据一览：（提取自一张大家上传自论坛的图片，至于是哪一张我就不说了）<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://mlmmlm.icu/uploads/default/original/1X/9f0b720c5496aeeefb4f40099c9f04f78b76cc7a.png" data-download-href="https://mlmmlm.icu/uploads/default/9f0b720c5496aeeefb4f40099c9f04f78b76cc7a" title="1"><img src="https://mlmmlm.icu/uploads/default/optimized/1X/9f0b720c5496aeeefb4f40099c9f04f78b76cc7a_2_436x500.png" alt="1" data-base62-sha1="mGYrg6uwc1ZmC05wLcaqtfDL0h4" width="436" height="500" srcset="https://mlmmlm.icu/uploads/default/optimized/1X/9f0b720c5496aeeefb4f40099c9f04f78b76cc7a_2_436x500.png, https://mlmmlm.icu/uploads/default/original/1X/9f0b720c5496aeeefb4f40099c9f04f78b76cc7a.png 1.5x, https://mlmmlm.icu/uploads/default/original/1X/9f0b720c5496aeeefb4f40099c9f04f78b76cc7a.png 2x" data-small-upload="https://mlmmlm.icu/uploads/default/optimized/1X/9f0b720c5496aeeefb4f40099c9f04f78b76cc7a_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">1</span><span class="informations">448×513 53.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<p>可以看到，拍摄照片的设备，拍摄时间，焦距等个人信息都一览无余。只是图片元数据的一部分，其他的我没有截图。</p>
+<p>除了图片，PDF中也含有元数据。</p>
+          <p><a href="https://mlmmlm.icu/t/topic/444/1">阅读整个主题</a></p>
+        ]]></description>
+        <link>https://mlmmlm.icu/t/topic/444/1</link>
+        <pubDate>Thu, 18 Feb 2021 06:18:21 +0000</pubDate>
+        <guid isPermaLink="false">mlmmlm.icu-post-444-1</guid>
+        <source url="https://mlmmlm.icu/t/topic/444.rss">希望大家上传各类文件到网络上时都清除元数据</source>
+      </item>
+  </channel>
+</rss>
